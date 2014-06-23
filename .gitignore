@@ -26,3 +26,4 @@ proguard.cfg
 
 #OSX
 .DS_Store
+lib/build
